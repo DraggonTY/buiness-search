@@ -1,0 +1,12 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1080 409" width="1080" height="409">
+	<style>
+		.s0 { fill: #010101 } 
+		.s1 { fill: #000000 } 
+		.s2 { fill: #f65d02 } 
+	</style>
+	<path id="Path 0" class="s0" d="m13 306h63v-28h-29v-175h-34zm178-101.5v101.5h64v-28h-31v-59h31v-27h-31v-58h31v-31h-64z"/>
+	<path id="Path 0 copy" class="s0" d="m1067 305h-63v-28h29v-175h34zm-178-101.5v101.5h-64v-28h31v-59h-31v-27h31v-58h-31v-31h64z"/>
+	<path id="Layer 2" class="s1" d="m370 7.11l119.63-0.11 68.37 208 69-208h83l-137 396h-68.01z"/>
+	<path id="Layer 1" class="s2" d="m369 265h344v16.03h-344z"/>
+	<path id="Layer 1 copy" class="s2" d="m368 128h344v16.03h-344z"/>
+</svg>
