@@ -135,6 +135,7 @@ footer a:hover {
 }
 
 .hero-copy {
+  margin-left: clamp(32px, 5vw, 96px);
   max-width: 720px;
   position: relative;
   text-align: left;
@@ -886,6 +887,7 @@ footer a {
   }
 
   .hero-copy {
+    margin-left: 0;
     max-width: 100%;
     text-align: center;
     transform: translateY(0);
